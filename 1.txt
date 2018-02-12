@@ -1,0 +1,12 @@
+self.d_0_meter:  5.0
+path_loss min:  -inf
+self.d_0_meter:  5.0
+path_loss min:  -inf
+self.d_0_meter:  5.0
+path_loss min:  -inf
+self.d_0_meter:  5.0
+path_loss min:  -inf
+self.d_0_meter:  5.0
+path_loss min:  -inf
+('all_indx: ', [0, 1, 2, 3, 4])
+('ind map:', 31)

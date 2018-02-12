@@ -1,0 +1,6 @@
+('all_indx: ', [0, 1, 2, 3, 4])
+('indices_to_be_chosen: ', 1)
+selected model component#  8
+selected model components emii vs iem:  161 8
+ARI (EMII vs IEM vs KMeans):  0.00164465087249   0.0146129393447   0.0176368597519
+Average Map Error (EMII vs IEM vs KMeans):  5.60777432807   9.35869488606   12.1152053982

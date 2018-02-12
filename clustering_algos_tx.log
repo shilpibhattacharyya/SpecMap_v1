@@ -1,0 +1,19 @@
+('all_indx: ', [0, 1])
+('ind map:', 3)
+selected model component#  3
+selected model components emii vs iem:  3 3
+ARI (EMII vs IEM vs KMeans):  0.893548556104   0.893548556104   0.893548556104
+Average Map Error (EMII vs IEM vs KMeans):  9109.97391535   9109.97391535   9109.97391535
+('all_indx: ', [0, 1, 2])
+('ind map:', 7)
+gsm.al maps size:  7
+selected model component#  7
+selected model components emii vs iem:  7 7
+ARI (EMII vs IEM vs KMeans):  0.698277031247   0.636459715697   0.676995149357
+Average Map Error (EMII vs IEM vs KMeans):  3619.69087314   3251.39475671   3632.95566193
+('all_indx: ', [0, 1, 2, 3])
+('ind map:', 15)
+selected model component#  15
+selected model components emii vs iem:  15 15
+ARI (EMII vs IEM vs KMeans):  0.605286485306   0.603698155363   0.644070377965
+Average Map Error (EMII vs IEM vs KMeans):  1711.40454334   1797.27097812   1874.005007
